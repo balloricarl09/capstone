@@ -108,7 +108,7 @@
                 <a href="#" class="active"><i class="fas fa-chart-line"></i> Overview</a>
             </li>
             <li class="nav-item">
-                <a href="#"><i class="fas fa-box-open"></i> Products</a>
+                <a href="products.php"><i class="fas fa-box-open"></i> Products</a>
             </li>
             <li class="nav-item">
                 <a href="#"><i class="fas fa-users"></i> Customers</a>
