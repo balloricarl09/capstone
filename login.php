@@ -28,7 +28,7 @@
     >
       <!-- Title using the text & UI color from the palette -->
       <h1 class="text-3xl font-bold text-center mb-6" style="color: #3b373b">
-        <!-- Login -->
+        Login
       </h1>
       <form>
         <!-- Email Input Field -->
